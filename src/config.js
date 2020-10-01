@@ -6,7 +6,7 @@ const dev = {
   },
   apiGateway: {
     REGION: "eu-central-1",
-    URL: "https://szhx850sm3.execute-api.eu-central-1.amazonaws.com/dev
+    URL: "https://api.ivanmar-chkp.com/dev"
   },
   cognito: {
     REGION: "eu-central-1",
@@ -24,7 +24,7 @@ const prod = {
   },
   apiGateway: {
     REGION: "eu-central-1",
-    URL: "https://xlhf65vu72.execute-api.eu-central-1.amazonaws.com/prod"
+    URL: "https://api.ivanmar-chkp.com/prod"
   },
   cognito: {
     REGION: "eu-central-1",
